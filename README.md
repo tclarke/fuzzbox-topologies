@@ -51,3 +51,7 @@ Bill has also made a PDF of his [notes](http://www.bellyjellymusic.com/pdf/fuzz-
 ## Capacitive-Coupled Dual-NPN Cascade
 
 ![](capacitive_coupled_dual_npn_cascade.png)
+
+## Multi-Stage Shunt-Feedback Diode Clipper
+
+![](multi-stage_shunt-feeback_diode_clipper.png)
