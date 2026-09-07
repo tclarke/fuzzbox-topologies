@@ -21,3 +21,34 @@ He drew the curcuits on paper and showed them on screen. I recreated them in Mic
 added summaries of the stages, etc. from the [video](https://youtu.be/ywT9Wf8vlGE)
 
 Bill has also made a PDF of his [notes](http://www.bellyjellymusic.com/pdf/fuzz-circuit-topologies-2026.08.26.pdf) available.
+
+# The Topologies
+
+## 3 Transistor Saturdation Cascade
+
+[](3tran_saturation_cascade.png)
+
+## 2 Transistor English Fuzz
+
+[](2tran_english_fuzz.png)
+
+## 3 Transistor Modified Darlington
+
+[](3tran_modified_darlington.png)
+
+## Differential Pair / Frequency Doubler
+
+[](diff_pair_octave_fuzz.png)
+
+## Parallel Phase-Blending
+
+[](parallel_phase_blending.png)
+
+## Cascaded Boost-Clip-Buffer
+
+[](cacaded_boost_clip_buffer.png)
+
+
+## Capacitive-Coupled Dual-NPN Cascade
+
+[](capacitive_coupled_dual_npn_cascade.png)
