@@ -26,29 +26,28 @@ Bill has also made a PDF of his [notes](http://www.bellyjellymusic.com/pdf/fuzz-
 
 ## 3 Transistor Saturdation Cascade
 
-[](3tran_saturation_cascade.png)
+![](3tran_saturation_cascade.png)
 
 ## 2 Transistor English Fuzz
 
-[](2tran_english_fuzz.png)
+![](2tran_english_fuzz.png)
 
 ## 3 Transistor Modified Darlington
 
-[](3tran_modified_darlington.png)
+![](3tran_modified_darlington.png)
 
 ## Differential Pair / Frequency Doubler
 
-[](diff_pair_octave_fuzz.png)
+![](diff_pair_octave_fuzz.png)
 
 ## Parallel Phase-Blending
 
-[](parallel_phase_blending.png)
+![](parallel_phase_blending.png)
 
 ## Cascaded Boost-Clip-Buffer
 
-[](cacaded_boost_clip_buffer.png)
-
+![](cacaded_boost_clip_buffer.png)
 
 ## Capacitive-Coupled Dual-NPN Cascade
 
-[](capacitive_coupled_dual_npn_cascade.png)
+![](capacitive_coupled_dual_npn_cascade.png)
